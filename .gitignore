@@ -1,0 +1,18 @@
+# Never commit game data. This repository must stay free of it.
+*.bin
+*.cue
+*.iso
+*.img
+*.chd
+*.pbp
+*.ecm
+*.7z
+*.zip
+*.state*
+*.mcd
+*.sav
+*.rom
+# the patch data is published as a release asset, not tracked
+*.ggp
+__pycache__/
+.DS_Store
